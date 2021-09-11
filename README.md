@@ -98,5 +98,5 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 
 Feito por Leonardo Costa 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Leonardo-Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-costa-65aa26b5/)](https://www.linkedin.com/in/leonardo-costa-65aa26b5/)
+[![Linkedin Badge](https://img.shields.io/badge/-Leonardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-costa-65aa26b5/)](https://www.linkedin.com/in/leonardo-costa-65aa26b5/)
 [![Gmail Badge](https://img.shields.io/badge/-leonardoeverton.tec@hotmail.com-red?style=flat-square&link=mailto:leonardoeverton.tec@hotmail.com)](mailto:leonardoeverton.tec@hotmail.com)
